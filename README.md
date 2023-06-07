@@ -1,6 +1,5 @@
 # Home_Sales
 
-In this challenge, I will be utilizing SparkSQL to analyze home sales data. My objective is to calculate various metrics such as average prices, filter the data based on specific criteria, cache and uncache tables, and measure the runtime of queries.
-
+In this challenge, I will be leveraging my knowledge of SparkSQL to gain insights into key metrics related to home sales data. Throughout the process, I will utilize Spark to create temporary views, partition the data, cache and uncache temporary tables, and verify the successful uncaching of a table.
 
 Google Colab Link: https://colab.research.google.com/drive/1sFXh2Iu-Zr7kO_hw8PJqGlhPweOPtXvs?usp=sharing
