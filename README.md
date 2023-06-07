@@ -5,8 +5,6 @@ In this challenge, I will be leveraging my knowledge of SparkSQL to gain insight
 Google Colab Link: https://colab.research.google.com/drive/1sFXh2Iu-Zr7kO_hw8PJqGlhPweOPtXvs?usp=sharing
 
 
-Tools Used: Pyspark
-
-            Google Colab
-            
+Tools Used: Pyspark,
+            Google Colab,
             SQL
