@@ -6,5 +6,7 @@ Google Colab Link: https://colab.research.google.com/drive/1sFXh2Iu-Zr7kO_hw8PJq
 
 
 Tools Used: Pyspark
+
             Google Colab
+            
             SQL
